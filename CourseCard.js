@@ -1,4 +1,4 @@
-// src/components/CourseCard.js
+
 import React from 'react';
 import './CourseCard.css';
 
