@@ -1,4 +1,4 @@
-/* src/components/CourseCard.css */
+
 .course-card {
     border: 1px solid #ddd;
     border-radius: 8px;
@@ -12,7 +12,7 @@
     width: 100px;
     height: 100px;
     border-radius: 8px;
-    object-fit: cover; /* Ensures the image covers the area without distortion */
+    object-fit: cover; 
     margin-bottom: 16px;
   }
   
