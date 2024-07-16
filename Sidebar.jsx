@@ -4,9 +4,8 @@ import FolderCopyIcon from '@mui/icons-material/FolderCopy';
 import NoteAltIcon from '@mui/icons-material/NoteAlt';
 import PriceChangeIcon from '@mui/icons-material/PriceChange';
 import ContactMailIcon from '@mui/icons-material/ContactMail';
-// import HexagonIcon from '@mui/icons-material/Hexagon';
-import icon from "../images/logo1.jpg"
-import {Link , NavLink} from 'react-router-dom'
+import icon from "../Logo/logo1.jpg"
+import {NavLink} from 'react-router-dom'
 
 
 
